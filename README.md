@@ -1,29 +1,56 @@
-# Welcome to your Lovable project
+# AD Movie Search App
 
-This project was built with [Lovable](https://lovable.dev).
+A modern and responsive movie search application built to help users discover movies and explore movie information through a clean and user-friendly interface.
 
-## Build with Lovable
+## Features
 
-Open your project in the [Lovable editor](https://lovable.dev) and keep building.
+- Search movies by title
+- Explore movie information
+- Responsive design for desktop, tablet, and mobile
+- Clean and modern user interface
+- Fast and easy navigation
 
-- **Ship faster**: describe what you want to build and Lovable handles the code.
-- **Stay in sync**: connect the project to GitHub and every change made in Lovable is committed straight to your repository.
-- **Full ownership**: this code is yours. Push to your repository and your changes sync back into Lovable, ready for your next prompt.
+## Tech Stack
 
-## Development
+- React
+- TypeScript
+- Vite
+- Tailwind CSS
 
-Prefer working locally? You need Node.js and npm — [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating).
+## Getting Started
 
-```sh
-git clone <this-repository-url>
-cd <repository-name>
-npm i
+### 1. Clone the Repository
+
+```bash
+git clone https://github.com/MuhammadAbdullah267/AD-Movie-Search-App.git
+```
+
+### 2. Open the Project
+
+```bash
+cd AD-Movie-Search-App
+```
+
+### 3. Install Dependencies
+
+```bash
+npm install
+```
+
+### 4. Start the Development Server
+
+```bash
 npm run dev
 ```
 
-## Built with
+Open the local URL shown in your terminal.
 
-- TanStack Start
-- TypeScript
-- React
-- Tailwind CSS
+## Project
+
+**AD Movie Search App**
+
+GitHub: https://github.com/MuhammadAbdullah267/AD-Movie-Search-App
+
+---
+
+Developed as a movie discovery and search web application.
